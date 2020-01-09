@@ -1,2 +1,2 @@
-# C lang game dev
+# CLang game dev
 Game dev with C programming language
