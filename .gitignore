@@ -1,0 +1,7 @@
+# custom
+.DS_Store
+bin/
+lib/
+__internal/
+build/
+*.out
